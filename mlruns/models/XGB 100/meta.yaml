@@ -1,0 +1,7 @@
+aliases:
+  challenger_xgb_100: '1'
+creation_timestamp: 1734926021622
+description: This is being run dataset V1 with 100 estimators and learning rate as
+  0.1
+last_updated_timestamp: 1734926116718
+name: XGB 100

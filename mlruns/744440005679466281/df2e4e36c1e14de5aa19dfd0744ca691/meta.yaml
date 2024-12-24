@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/mlflow_car/mlruns/744440005679466281/df2e4e36c1e14de5aa19dfd0744ca691/artifacts
+end_time: 1734924284905
+entry_point_name: ''
+experiment_id: '744440005679466281'
+lifecycle_stage: active
+run_id: df2e4e36c1e14de5aa19dfd0744ca691
+run_name: Gradient Boosting Regressor
+run_uuid: df2e4e36c1e14de5aa19dfd0744ca691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734924261144
+status: 3
+tags: []
+user_id: ARAVINTH

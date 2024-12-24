@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/mlflow_car/mlruns/744440005679466281/517a9bfd65f546419b9a83404ad8fa87/artifacts
+end_time: 1734926021673
+entry_point_name: ''
+experiment_id: '744440005679466281'
+lifecycle_stage: active
+run_id: 517a9bfd65f546419b9a83404ad8fa87
+run_name: XGB Regressor
+run_uuid: 517a9bfd65f546419b9a83404ad8fa87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734924292455
+status: 3
+tags: []
+user_id: ARAVINTH

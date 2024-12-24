@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734926021648
+current_stage: None
+description: ''
+last_updated_timestamp: 1734926021648
+name: XGB 100
+run_id: 517a9bfd65f546419b9a83404ad8fa87
+run_link: ''
+source: file:///m:/mlflow_car/mlruns/744440005679466281/517a9bfd65f546419b9a83404ad8fa87/artifacts/model_name
+status: READY
+status_message: null
+storage_location: file:///m:/mlflow_car/mlruns/744440005679466281/517a9bfd65f546419b9a83404ad8fa87/artifacts/model_name
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/mlflow_car/mlruns/0/2fb0f7a3679a48d0be77aa5308707dcb/artifacts
+end_time: 1734885419619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fb0f7a3679a48d0be77aa5308707dcb
+run_name: Random Forest
+run_uuid: 2fb0f7a3679a48d0be77aa5308707dcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734885415972
+status: 3
+tags: []
+user_id: ARAVINTH

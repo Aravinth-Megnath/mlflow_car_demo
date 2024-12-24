@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/mlflow_car/mlruns/0/0134a68507a14603a3220dc48b929c83/artifacts
+end_time: 1734885697679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0134a68507a14603a3220dc48b929c83
+run_name: Support Vector Regression
+run_uuid: 0134a68507a14603a3220dc48b929c83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734885694117
+status: 3
+tags: []
+user_id: ARAVINTH

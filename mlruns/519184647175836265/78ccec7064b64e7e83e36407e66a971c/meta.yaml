@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/mlflow_car/mlruns/519184647175836265/78ccec7064b64e7e83e36407e66a971c/artifacts
+end_time: 1734877061606
+entry_point_name: ''
+experiment_id: '519184647175836265'
+lifecycle_stage: active
+run_id: 78ccec7064b64e7e83e36407e66a971c
+run_name: righteous-dove-371
+run_uuid: 78ccec7064b64e7e83e36407e66a971c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734877057295
+status: 3
+tags: []
+user_id: ARAVINTH

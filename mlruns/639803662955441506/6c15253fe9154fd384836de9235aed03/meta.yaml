@@ -1,0 +1,15 @@
+artifact_uri: file:///m:/mlflow_car/mlruns/639803662955441506/6c15253fe9154fd384836de9235aed03/artifacts
+end_time: 1734968311994
+entry_point_name: ''
+experiment_id: '639803662955441506'
+lifecycle_stage: active
+run_id: 6c15253fe9154fd384836de9235aed03
+run_name: XGBClassifier With SMOTE
+run_uuid: 6c15253fe9154fd384836de9235aed03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734968269003
+status: 3
+tags: []
+user_id: ARAVINTH
