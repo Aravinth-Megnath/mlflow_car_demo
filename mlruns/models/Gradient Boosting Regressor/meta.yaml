@@ -1,0 +1,7 @@
+aliases:
+  challenger: '1'
+creation_timestamp: 1735008283694
+description: This model is being run on dataset version 1 with the parameters n_estimators
+  100
+last_updated_timestamp: 1735017895435
+name: Gradient Boosting Regressor

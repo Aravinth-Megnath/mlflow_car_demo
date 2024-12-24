@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735008283704
+current_stage: None
+description: null
+last_updated_timestamp: 1735008283704
+name: Gradient Boosting Regressor
+run_id: df2e4e36c1e14de5aa19dfd0744ca691
+run_link: null
+source: file:///m:/mlflow_car/mlruns/744440005679466281/df2e4e36c1e14de5aa19dfd0744ca691/artifacts/model_name
+status: READY
+status_message: null
+storage_location: file:///m:/mlflow_car/mlruns/744440005679466281/df2e4e36c1e14de5aa19dfd0744ca691/artifacts/model_name
+user_id: null
+version: 1

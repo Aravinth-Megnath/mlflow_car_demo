@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735018009061
+current_stage: None
+description: ''
+last_updated_timestamp: 1735018009061
+name: SVR_Car
+run_id: 50fd04ceb88c48928f7c6b9c4ff449dd
+run_link: ''
+source: file:///m:/mlflow_car/mlruns/744440005679466281/50fd04ceb88c48928f7c6b9c4ff449dd/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///m:/mlflow_car/mlruns/744440005679466281/50fd04ceb88c48928f7c6b9c4ff449dd/artifacts/model
+user_id: null
+version: 1
